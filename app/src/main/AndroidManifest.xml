@@ -12,7 +12,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CCTVViewer">
 
-        <!-- 启动页Activity -->
         <activity
             android:name=".SplashActivity"
             android:exported="true">
@@ -23,7 +22,6 @@
             </intent-filter>
         </activity>
 
-        <!-- 主界面Activity -->
         <activity
             android:name=".MainActivity"
             android:exported="false" />
