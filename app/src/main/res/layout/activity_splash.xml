@@ -8,7 +8,7 @@
         android:id="@+id/splash_image"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@drawable/9d7d3a046357d1db731f6273e7d498a5"
+        android:src="@drawable/splash"
         android:scaleType="centerCrop" />
 
 </LinearLayout>
